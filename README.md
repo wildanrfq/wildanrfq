@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**danrfq/danrfq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Will. I like Web Scraping, Discord Bots, and Music (Rap or Pop). UTC+7.
 
-Here are some ideas to get you started:
+📃 Programming languages I'm learning (and still trying to get the intentions to learn them more deeper):
+<br><br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danrfq&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:notes: Also, I like these albums more than the other albums I've listened.
+1. [Blonde](https://en.wikipedia.org/wiki/Blonde_(Frank_Ocean_album)) by Frank Ocean
+2. [My Beautiful Dark Twisted Fantasy](https://en.wikipedia.org/wiki/My_Beautiful_Dark_Twisted_Fantasy) by Kanye West
+3. [SOUR](https://en.wikipedia.org/wiki/Sour_(album)) by Olivia Rodrigo
+4. [IGOR](https://en.wikipedia.org/wiki/Igor_(album)) by Tyler, The Creator
+
+![danrfq's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=danrfq&count_private=true&theme=radical&show_icons=true)
+
+📲 Reach me out:
+<br><br>
+[![discord](https://img.shields.io/badge/will.%230021-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/211756205721255947)
