@@ -17,7 +17,7 @@ I'm Will. I like Web Scraping, Discord Bots, and Music (Rap or Pop). UTC+7.
 3. [SOUR](https://en.wikipedia.org/wiki/Sour_(album)) by Olivia Rodrigo
 4. [IGOR](https://en.wikipedia.org/wiki/Igor_(album)) by Tyler, The Creator
 
-![danrfq's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=danrfq&count_private=true&theme=radical&show_icons=true)
+![danrfq's github stats](https://github-readme-stats.vercel.app/api?username=danrfq&count_private=true&theme=radical&show_icons=true)
 
 📲 Reach me out:
 <br><br>
