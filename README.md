@@ -12,10 +12,10 @@ I'm Will. I like Web Scraping, Discord Bots, and Music (Rap or Pop). UTC+7.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danrfq&layout=compact)
 
 :notes: Also, I like these albums more than the other albums I've listened.
-1. [Blonde](https://en.wikipedia.org/wiki/Blonde_(Frank_Ocean_album)) by Frank Ocean(⭐ Nights)
-2. [My Beautiful Dark Twisted Fantasy](https://en.wikipedia.org/wiki/My_Beautiful_Dark_Twisted_Fantasy) by Kanye West (⭐ Monster)
-3. [SOUR](https://en.wikipedia.org/wiki/Sour_(album)) by Olivia Rodrigo (⭐ traitor)
-4. [IGOR](https://en.wikipedia.org/wiki/Igor_(album)) by Tyler, The Creator (⭐ ARE WE STILL FRIENDS?)
+1. [Blonde](https://en.wikipedia.org/wiki/Blonde_(Frank_Ocean_album)) by Frank Ocean - ⭐ `Nights`
+2. [My Beautiful Dark Twisted Fantasy](https://en.wikipedia.org/wiki/My_Beautiful_Dark_Twisted_Fantasy) by Kanye West - ⭐ `Monster`
+3. [SOUR](https://en.wikipedia.org/wiki/Sour_(album)) by Olivia Rodrigo - ⭐ `traitor`
+4. [IGOR](https://en.wikipedia.org/wiki/Igor_(album)) by Tyler, The Creator - ⭐ `ARE WE STILL FRIENDS?`
 
 ![danrfq's github stats](https://github-readme-stats.vercel.app/api?username=danrfq&count_private=true&theme=radical&show_icons=true)
 
