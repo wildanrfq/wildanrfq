@@ -21,4 +21,6 @@ I'm Will. I like Web Scraping, Discord Bots, and Music (Rap or Pop). UTC+7.
 
 📲 Reach me out:
 <br><br>
+![Discord Profile](https://discord.c99.nl/widget/theme-1/211756205721255947.png)
+<br><br>
 [![discord](https://img.shields.io/badge/will.%230021-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/211756205721255947)
