@@ -9,7 +9,7 @@ I'm Will. I like Web Scraping, Discord Bots, and Music (Rap or Pop). UTC+7.
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danrfq&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danrfq&layout=compact&theme=radical)
 
 :notes: Also, I like these albums more than the other albums I've listened.
 1. [Blonde](https://en.wikipedia.org/wiki/Blonde_(Frank_Ocean_album)) by Frank Ocean - ⭐ `Nights`
