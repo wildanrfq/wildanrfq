@@ -27,6 +27,7 @@ I'm Will. I like Web Scraping, Discord Bots, and Music (Rap or Pop). UTC+7.
 4. [IGOR](https://en.wikipedia.org/wiki/Igor_(album)) by Tyler, The Creator - ⭐ `ARE WE STILL FRIENDS?`
 
 ![danrfq's github stats](https://github-readme-stats.vercel.app/api?username=danrfq&count_private=true&theme=radical&show_icons=true)
+![danrfq's github trophies](https://github-profile-trophy.vercel.app/?username=danrfq&theme=radical)
 
 ### 📲 Reach me out:
 ![Discord Profile](https://lanyard.cnrad.dev/api/211756205721255947)
