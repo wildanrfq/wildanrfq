@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Will. I like Web Scraping, Discord Bots, and Music (Rap or Pop). UTC+7.
+I'm Will. I like Web Scraping, Discord Bots, and Music (Rap or Pop).
 
 ### 📃 Tools I've used
 
