@@ -1,6 +1,6 @@
 <h2 align="center">hello, I'm will.</h2>
 <h3 align="center">intermediate in Python, JS/TS, and Ruby.</h3>
-<h3 align="center">currently learning Rust, catching up on learning React/Vue for the foreseeable future.</h3>
+<h3 align="center">currently learning Rust, catching up to focus on learning React/Vue for the foreseeable future.</h3>
 
 <p align="center">
   <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danrfq&layout=compact&theme=radical&langs_count=10"></img>
