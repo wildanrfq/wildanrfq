@@ -2,7 +2,7 @@
 <p align="center"><b><i>todo: react, vue</i></b></p>
 
 <p align="center">
-  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danrfq&layout=compact&theme=radical&langs_count=10"></img>
+  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanrfq&layout=compact&theme=radical&langs_count=10"></img>
   <a href="https://last.fm/user/wildanrfq"><img width="350" src="https://lastfm-recently-played.vercel.app/api?user=wildanrfq&loved=true&count=4"></img></a>
 </p>
 <p align="center">
