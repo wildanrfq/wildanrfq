@@ -1,4 +1,4 @@
-<h3 align="center">python, rust, js/ts, ruby</h3>
+<h3 align="center">python, rust, js/ts, ruby, c++</h3>
 <p align="center"><b><i>todo: react, vue</i></b></p>
 
 <p align="center">
