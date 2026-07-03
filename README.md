@@ -1,5 +1,5 @@
 <h3 align="center">python, rust, js/ts, ruby, c++</h3>
-<p align="center"><b><i>todo: react, vue</i></b></p>
+<p align="center"><b><i>todo: vue</i></b></p>
 
 <p align="center">
   <img src="/github-metrics.svg" alt="Metrics">
